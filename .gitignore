@@ -1,0 +1,10 @@
+.classpath
+.settings/
+.project
+classes/
+libs/
+bin/
+project.properties
+
+target/
+tmp/
