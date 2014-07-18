@@ -57,7 +57,7 @@ public class Usage {
   public static void main(String... args)
   {
     String phrase = "github";
-    BlowfishKey key = Cypher.generateBlowfishKey(1024);
+    BlowfishKey key = Cypher.generateBlowfishKey(128);
     
     System.out.println("key:" + key.getKey());
     
