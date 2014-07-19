@@ -1,6 +1,6 @@
 # Cypher
 
-Simple encryption/decryption library for Java
+Easy-to-use wrapper of Bouncy Castle cryptography API.
 
 # Install
 
