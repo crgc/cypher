@@ -1,5 +1,8 @@
 # Cypher
 
+[![Build Status](https://travis-ci.org/chuckbuckethead/cypher.png?branch=master)](https://travis-ci.org/chuckbuckethead/cypher)
+
+
 A general-purpose, easy-to-use wrapper of the Bouncy Castle cryptography API.
 
 # Install
