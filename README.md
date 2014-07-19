@@ -23,7 +23,7 @@ Cypher exports both asymmectric and symmetric encryption/decryption capabilities
 ```java
 package com.github.chuckbuckethead.cypher.usage;
 
-import com.github.chuckbuckethead.cyper.Cypher;
+import com.github.chuckbuckethead.cypher.Cypher;
 
 public class Usage {
   
@@ -50,7 +50,7 @@ public class Usage {
 ```java
 package com.github.chuckbuckethead.cypher.usage;
 
-import com.github.chuckbuckethead.cyper.Cypher;
+import com.github.chuckbuckethead.cypher.Cypher;
 
 public class Usage {
   
