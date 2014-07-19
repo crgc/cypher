@@ -50,9 +50,4 @@ public class BlowfishKeyGen
 		String encodedKey = new Base64Encoder().encode(key.getEncoded());
 		return new BlowfishKey(encodedKey);
 	}
-	
-	public static void main(String[] args) throws NoSuchAlgorithmException
-	{
-		new BlowfishKeyGen().generateKey(16);
-	}
 }
