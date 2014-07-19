@@ -1,6 +1,6 @@
 # Cypher
 
-An general-purpose, easy-to-use wrapper of the Bouncy Castle cryptography API.
+A general-purpose, easy-to-use wrapper of the Bouncy Castle cryptography API.
 
 # Install
 
